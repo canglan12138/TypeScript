@@ -11,6 +11,9 @@ System.register(["./b"], function (exports_1, context_1) {
         execute: function () {
             console.log('app');
             console.log(b_1.a);
+            console.log(b_1.a);
+            console.log(b_1.a);
+            console.log(b_1.a);
         }
     };
 });
