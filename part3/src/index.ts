@@ -11,3 +11,4 @@ console.log(h1);
 let a: number
 a = 6
 console.log(a);
+console.log(Promise);
